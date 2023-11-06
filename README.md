@@ -1,4 +1,4 @@
-Communication
+I2c
 
 # I. Description:
 General class for communication.
